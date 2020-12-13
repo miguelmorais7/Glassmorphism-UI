@@ -6,3 +6,6 @@ Learning Glassmorphism design
 
 ## Login Design - HTML/CSS
 ![](/Projects_imgs/login.png?w=512)
+
+## Profile Card Design - HTML/CSS
+![](/Projects_imgs/profile-card.png?w=512)
